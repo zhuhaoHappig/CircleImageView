@@ -1,0 +1,9 @@
+<com.zoomimageview.CircleImageView
+        android:id="@+id/iv"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        zhuhao:border_width="1dp"
+        zhuhao:border_color="#ffffff"
+        zhuhao:height_VIEW="100dp"
+        zhuhao:width_VIEW="100dp" />
