@@ -1,0 +1,10 @@
+<resources>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+        <attr name="width_VIEW" format="dimension" />
+        <attr name="height_VIEW" format="dimension" />
+    </declare-styleable>
+  
+</resources>
